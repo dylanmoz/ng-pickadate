@@ -1,6 +1,6 @@
 {
   "name": "@dmoz/ng-pickadate",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "authors": [
     "Rémi Alvergnat <toilal.dev@gmail.com> (http://www.pragmasphere.com)"
   ],
@@ -21,8 +21,8 @@
     "serve": "gulp serve"
   },
   "dependencies": {
-    "angular": "~1.4.5",
-    "@dmoz/pickadate": "~3.6.0"
+    "@dmoz/pickadate": "~3.6.0",
+    "angular": "~1.4.5"
   },
   "devDependencies": {
     "browser-sync": "^2.11.1",
